@@ -1,3 +1,4 @@
+<img width="1703" height="424" alt="Image" src="https://github.com/user-attachments/assets/77c0a01f-38c9-454f-b4d9-c1cc0b6f01e4" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/void007z) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@skrypt7148) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahnafsiyam7@gmail.com) 
